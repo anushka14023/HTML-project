@@ -1,0 +1,46 @@
+.navbar,.container1{
+    background-color: #1C788C;
+}
+.container1{
+    padding-left: 10px;
+}
+.logo{
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+
+}
+.container-main{
+    display: grid;
+}
+
+.s1{
+    margin-top: 400px;
+    padding-right: 50px;
+}
+.s-small{
+    margin-top: 90px;
+    padding-left: 1100px;
+    width: 100px;
+}
+.cyan{
+    width: 400px;
+}
+.red{
+    width: 200px;
+    padding-top: 100px;
+    padding-right: 50px;
+}
+.blue{
+    margin-left: 0px;
+    width: 500px;
+    padding-bottom: 400px;
+}
+.book{
+    height: 600px;
+}
+.card{
+    width: 300px;
+}
